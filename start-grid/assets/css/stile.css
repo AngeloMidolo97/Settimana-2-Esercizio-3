@@ -40,9 +40,7 @@ body {
             grid-template-areas: 
             'article aside'
             'article section'
-            'article section'
-            'article section'
-            
+            '. section'
             ;
         }
         .clearfix {
